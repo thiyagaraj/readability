@@ -1,0 +1,9 @@
+{
+    "name": "text-readability-scorer", 
+    "license": "MPL 1.1/GPL 2.0/LGPL 2.1", 
+    "author": "Thiyagaraj Krishna", 
+    "version": "0.1", 
+    "fullName": "Text Readability Scorer", 
+    "id": "jid1-iPTeka6BC1EF1w", 
+    "description": "An add-on that displays the readability scores of selected text"
+}
