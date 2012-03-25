@@ -15,7 +15,7 @@ This is an experimental firefox extension that I created during the Mozilla Deve
 
 ##Build Instructions
 1. Download the [Mozilla Firefox Add-ons SDK](https://addons.mozilla.org/en-US/developers/builder)
-2. Download the readability director into a place where you can activate the SDK and get to the command link
+2. Download the readability director into a place where you can activate the SDK and get to the command line(platform specific instructions will be in the SDK)
 3. Enter "cfx run" in the command line while in the "readability" directory (SDK commandline)
 4. It should launch an instance of the browser with the plugin loaded
 5. Navigate to any webpage, wait until it loads, and then select some text,right-clicking should bring up the "Calculate Readability" menu item which would launch the scores in a "panel".
